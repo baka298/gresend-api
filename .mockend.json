@@ -1,5 +1,5 @@
 {
-  "User": [{
+  "User": [
     {
         "id": 1,
         "delivery_tour_id": 1,
@@ -63,5 +63,5 @@
         "optimized": "2022-10-19 16:17:44",
         "rejected": null
     }
-  }]
+  ]
 }
